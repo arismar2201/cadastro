@@ -4,7 +4,9 @@ Sistema Criado para ajudar a cadastra clientes
 Totalmente de graça podendo ser modificado conforme a sua necessidade.
 ### Projeto de cadastro de clientes feito com JavaScript, HTML, CSS, PDO e baseado no template Bootstrap 
 Login adimn@gmail.com senha 123
-
+##Modo de Instalação
+O XAMPP é uma distribuição do Apache fácil de instalar contendo PHP, MySQL e Perl. Basta fazer o download e iniciar o instalador. É simples assim!
+Xampp  8.0.25, 8.1.12 & 8.2.0
 
 Tela login
 
